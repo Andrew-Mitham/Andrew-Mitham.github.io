@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+header {
+	background-color: red;
+}
+
+.index {
+	background-color: lightyellow;
+	
+}
+
+body {
+	background-color: lightyellow;
+}
+
+#about {
+	background-color: lightyellow;
+}
+
+#team {
+	background-color: yellow;
+}
+
+.section-heading {
+	background-color: coral;
+}
+
+.page-header {
+	background-color: coral;
+}
+
+footer {
+	background-color: lightgray;
+}
+
+.bg-light-gray {
+	background-color: aqua;
+}
+
+.navbar-brand {
+	background-color: black;
+}
+
+.navbar-header {
+	background-color: black;
+}
+
+.navbar-toggle {
+	background-color: lightgray;
+}
+
+.navbar-collapse {
+	background-color: lightgray;
+}
+
+.btn-xl {
+	border:thick;
+	padding: 10px;
+}
